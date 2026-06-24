@@ -1,0 +1,6 @@
+{
+  "name": "Shaina Cafe",
+  "description": "A premium, minimalist café experience in Dabwali, Haryana, India. Designed with a strict high-contrast black and white aesthetic, complete with online ordering, table reservations, and live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
